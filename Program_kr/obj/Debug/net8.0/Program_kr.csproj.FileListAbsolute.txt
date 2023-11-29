@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\Обучение GB\Итоговая КР - основной блок\kr_osn_block\Program_kr\obj\Debug\net8.0\Program_kr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Обучение GB\Итоговая КР - основной блок\kr_osn_block\Program_kr\obj\Debug\net8.0\Program_kr.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Обучение GB\Итоговая КР - основной блок\kr_osn_block\Program_kr\obj\Debug\net8.0\Program_kr.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Обучение GB\Итоговая КР - основной блок\kr_osn_block\Program_kr\obj\Debug\net8.0\Program_kr.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Обучение GB\Итоговая КР - основной блок\kr_osn_block\Program_kr\obj\Debug\net8.0\Program_kr.sourcelink.json
+C:\Users\Lenovo\Documents\Обучение GB\Итоговая КР - основной блок\kr_osn_block\Program_kr\bin\Debug\net8.0\Program_kr.exe
+C:\Users\Lenovo\Documents\Обучение GB\Итоговая КР - основной блок\kr_osn_block\Program_kr\bin\Debug\net8.0\Program_kr.deps.json
+C:\Users\Lenovo\Documents\Обучение GB\Итоговая КР - основной блок\kr_osn_block\Program_kr\bin\Debug\net8.0\Program_kr.runtimeconfig.json
+C:\Users\Lenovo\Documents\Обучение GB\Итоговая КР - основной блок\kr_osn_block\Program_kr\bin\Debug\net8.0\Program_kr.dll
+C:\Users\Lenovo\Documents\Обучение GB\Итоговая КР - основной блок\kr_osn_block\Program_kr\bin\Debug\net8.0\Program_kr.pdb
+C:\Users\Lenovo\Documents\Обучение GB\Итоговая КР - основной блок\kr_osn_block\Program_kr\obj\Debug\net8.0\Program_kr.dll
+C:\Users\Lenovo\Documents\Обучение GB\Итоговая КР - основной блок\kr_osn_block\Program_kr\obj\Debug\net8.0\refint\Program_kr.dll
+C:\Users\Lenovo\Documents\Обучение GB\Итоговая КР - основной блок\kr_osn_block\Program_kr\obj\Debug\net8.0\Program_kr.pdb
+C:\Users\Lenovo\Documents\Обучение GB\Итоговая КР - основной блок\kr_osn_block\Program_kr\obj\Debug\net8.0\Program_kr.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Обучение GB\Итоговая КР - основной блок\kr_osn_block\Program_kr\obj\Debug\net8.0\ref\Program_kr.dll
